@@ -1,0 +1,2 @@
+# TalkingEffect
+ Plugin for Vencord
