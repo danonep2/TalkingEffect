@@ -1,0 +1,16 @@
+
+@keyframes effect {
+    0% {
+      transform: rotate(2deg);
+    }
+  
+    100% {
+      transform: rotate(-4deg);
+    }
+  }
+  
+  .talking {
+    scale: 1.2;
+    animation: effect .1s infinite alternate;
+    filter: blur(-1px);
+  }
